@@ -1,0 +1,10 @@
+{
+  "name": "SalesTrack GPS - Field Sales & Schedule Tracker",
+  "description": "Automated GPS coordinate capture, Google Maps Grounding verification, and smart field submission for Daily Sales Scheduling Google Forms.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
